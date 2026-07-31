@@ -92,6 +92,27 @@ student-performance-analysis-dashboard
 └── StudentsPerformance.csv
 ```
 
+🔄 Project Workflow
+
+```text
+Raw Dataset (.csv)
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Exploratory Data Analysis
+        │
+        ▼
+Pivot Tables & Pivot Charts
+        │
+        ▼
+Interactive Dashboard
+        │
+        ▼
+Key Insights & Recommendations
+```
+
 ---
 
 🚀 Learning Outcomes
