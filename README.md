@@ -53,11 +53,7 @@ Skills
 
 📸 Dashboard Preview
 
-> **After publishing the repository, replace the line below with your dashboard screenshot.**
-
-```
-Dashboard Preview Here
-```
+![Dashboard Preview](Dashboard%20Preview.png)
 
 ---
 
