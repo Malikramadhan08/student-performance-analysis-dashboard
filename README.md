@@ -21,7 +21,7 @@ The goal of this project is to transform raw student performance data into an in
 - Analyze student performance across different demographic factors.
 - Build an interactive dashboard using Microsoft Excel.
 - Present key insights through effective data visualization.
-- Support data-driven decision-making.
+- Generate meaningful insights from student performance data.
 
 ---
 
@@ -66,7 +66,7 @@ Skills
 
 - Interactive slicers for dynamic filtering.
 - KPI cards showing average Math, Reading, Writing, and Total Scores.
-- PivotCharts for comparing student performance.
+- PivotCharts for visualizing performance comparisons.
 - Clean dashboard layout designed for easy interpretation.
 - Key Insight section highlighting important findings.
 
@@ -117,13 +117,15 @@ Key Insights & Recommendations
 
 🚀 Learning Outcomes
 
+🚀 Learning Outcomes
+
 Through this project, I strengthened my ability to:
 
-- Transform raw datasets into meaningful insights.
-- Design interactive dashboards using Microsoft Excel.
-- Apply data cleaning techniques.
-- Build clear and effective data visualizations.
-- Communicate analytical findings through dashboards.
+- Clean and prepare raw datasets for analysis.
+- Analyze data using PivotTables and PivotCharts.
+- Build an interactive dashboard in Microsoft Excel.
+- Create clear and effective data visualizations.
+- Communicate insights through dashboard reporting.
 
 ---
 
@@ -133,4 +135,4 @@ Through this project, I strengthened my ability to:
 
 Aspiring Data Analyst
 
-GitHub: https://github.com/Malikramadhan08
+GitHub: GitHub: [Malikramadhan08](https://github.com/Malikramadhan08)
