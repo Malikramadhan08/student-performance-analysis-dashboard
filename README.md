@@ -1,5 +1,10 @@
 📊 Student Performance Analysis Dashboard
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-orange?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-purple?style=for-the-badge)
+
 An interactive dashboard built in **Microsoft Excel** to analyze student academic performance using data visualization, KPI cards, PivotTables, PivotCharts, and slicers.
 
 ---
