@@ -75,7 +75,7 @@ Skills
 💡 Key Insights
 
 - Students who completed the test preparation course achieved higher average scores.
-- Reading has the highest average score among all subjects.
+- Math show the lowest average score compared to Reading and Writing Subject
 - Students with parents who have higher education levels tend to perform better academically.
 - Lunch type shows a noticeable relationship with academic performance.
 
